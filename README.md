@@ -115,7 +115,7 @@ $ node .
 | Free Fixed|✅|
 | Free Panel|✅|
 | Free Service|✅|
-* ```Price: IDR 70.000```
+* ```Price: IDR 80.000```
 * [WhatsApp Contact Bot](https://wa.me/6285179771076)
   
 ### Contacts Me

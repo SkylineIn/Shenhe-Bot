@@ -36,6 +36,12 @@ $ node .
 
 ### FEATURED
 
+| Button Style|Yes|
+| ------------- | ------------- |
+| Button List|✅|
+| Button Image|✅|
+| Button Video|✅|
+
 | Artificial Intelligence|Yes|
 | ------------- | ------------- |
 | Avatar Me|✅|

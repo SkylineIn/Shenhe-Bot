@@ -122,7 +122,7 @@ $ node .
 | Free Panel|✅|
 | Free Service|✅|
 * ```Price: IDR 80.000```
-* [WhatsApp Contact Bot](https://wa.me/6285179771076)
+* [WhatsApp Contact Bot](https://chat.whatsapp.com/Ktj636ieh952VD4DNPQ04B)
   
 ### Contacts Me
 * [Instagram](https://www.instagram.com/kyllnexofc)

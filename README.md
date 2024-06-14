@@ -1,6 +1,6 @@
 </p>
 <p align="center">
-<a href="https://telegra.ph/file/b239cf32a1b7f9a783a11.jpg"><img title="SHENHE BOT" src="https://telegra.ph/file/b239cf32a1b7f9a783a11.jpg"></a>
+<a href="https://telegra.ph/file/c933a161d0dade08880c1.jpg"><img title="OHTO AI" src="https://telegra.ph/file/c933a161d0dade08880c1.jpg"></a>
 <p align="center">
 <a href="#"><img title="BETA" src="https://img.shields.io/badge/BETA-YES-blue.svg"></a>
 <a href="#"><img title="FOR SALE" src="https://img.shields.io/badge/FORSALE-YES-blue.svg"></a>   

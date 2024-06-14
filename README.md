@@ -6,7 +6,7 @@
 <a href="#"><img title="FOR SALE" src="https://img.shields.io/badge/FORSALE-YES-blue.svg"></a>   
 </p>
 
-### SHENHE BOT
+### OHTO AI
 ```script bukan murni bikinan sendiri, saya hanya sekedar kroco penghuni inti bumi.```
 </div>
 
